@@ -1,0 +1,3 @@
+High pass a low pass vyhybky 8. radu, Sallen-Key architektura, Butterworthov filter.
+Schema vyhybiek LP + HP - vyhybka.sch.
+PCB su rozdelene do lowpass.kicad_pcb a highpass_kicad_pcb kvoli freeroutingu
